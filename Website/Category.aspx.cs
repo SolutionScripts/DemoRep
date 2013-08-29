@@ -10,7 +10,7 @@ using InvertedSoftware.ShoppingCart.Common;
 using InvertedSoftware.ShoppingCart.DataLayer.DataObjects;
 using InvertedSoftware.ShoppingCart.DataLayer.Database;
 using InvertedSoftware.ShoppingCart.BusinessLayer.Controls;
-
+// edit online i will see it by clone to desktop
 public partial class Category : BasePage
 {
     protected void Page_Load(object sender, EventArgs e)
